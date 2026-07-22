@@ -1,15 +1,15 @@
 <div align="center">
 
-  <!-- hiệu ứng chữ đánh máy chạy tự động -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E90FA&center=true&vcenter=true&width=500&lines=Hi+there%2C+I'm+Son+👋;Computer+Networks+Student+%40+UIT;Exploring+C%2B%2B+%26+Data+Structures;Learning+something+new+every+day..." alt="Typing SVG" />
+  <!-- hiệu ứng chữ đánh máy -->
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vcenter=true&width=500&lines=Hi+there%2C+I'm+Son+👋;Computer+Networks+Student+%40+UIT;Exploring+C%2B%2B+%26+Data+Structures;Learning+something+new+every+day..." alt="Typing SVG" />
   </a>
 
   <p align="center">
     🌐 <i>networking student | 🛠️ building foundations | 🔍 exploring possibilities</i>
   </p>
 
-  <!-- badge thông tin cá nhân -->
+  <!-- badge thông tin -->
   <p align="center">
     <img src="https://img.shields.io/badge/University-UIT%20--%20VNU--HCM-0052CC?style=for-the-badge&logo=education&logoColor=white" />
     <img src="https://img.shields.io/badge/Major-Computer%20Networks-00BFFF?style=for-the-badge&logo=cisco&logoColor=white" />
