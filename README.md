@@ -29,15 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Starts
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SonVoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonVoo&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
-<br />
-
-<div align="center">
-  <i>"Keep learning, keep exploring."</i>
-</div>
